@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rapport on Projet Tutoré</title>
+    <link>/rapport/</link>
+    <description>Recent content in Rapport on Projet Tutoré</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="/rapport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

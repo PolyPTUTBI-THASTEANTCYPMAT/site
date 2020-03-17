@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PTUT BI 2019/2020 on Projet Tutoré</title>
+    <link>/</link>
+    <description>Recent content in PTUT BI 2019/2020 on Projet Tutoré</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pauvreté</title>
+      <link>/analyses/poverty/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/analyses/poverty/</guid>
+      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
+    </item>
+    
+  </channel>
+</rss>
