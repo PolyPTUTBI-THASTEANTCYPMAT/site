@@ -32,14 +32,11 @@ summaryLength = 30
     homepage_button_link = '/analyses'
     homepage_button_text = 'Analyses'
     homepage_intro = 'Site regroupant nos analyses concernant la transmission du SIDA.'
-    homepage_image = 'https://placekitten.com/1280/800'
-
-    ## You can enable to add anchor links to header elements
-    # enable_anchor_link = true
-
+    # homepage_image = 'https://placekitten.com/1280/800'
+    enable_anchor_link = true
+    disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
 [params.logo]
     mobile = "/images/logo-mobile.svg"
     standard  = "/images/red_ribbon.svg"
 
-disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
