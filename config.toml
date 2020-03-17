@@ -3,6 +3,7 @@ languageCode = "fr-fr"
 title = "Projet Tutoré"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
+enableEmoji = true
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
