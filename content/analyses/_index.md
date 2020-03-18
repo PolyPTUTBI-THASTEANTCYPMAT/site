@@ -6,4 +6,4 @@ weight: 1
 
 ## Introduction
 
-Afin d'améliorer mettre en lumières les circonstances pouvant agraver la transmission du SIDA, nous avons décider de travailler sur les axes suivants.
+Nous avons regroupé sous différentes thématiques nos KPI afin de mettre en lumière l'évolution de la population infectée par le SIDA.
