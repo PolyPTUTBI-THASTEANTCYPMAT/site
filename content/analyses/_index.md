@@ -6,4 +6,4 @@ weight: 1
 
 ## Introduction
 
-Nous avons regroupé sous différentes thématiques nos KPI afin de mettre en lumière l'évolution de la population infectée par le SIDA.
+Analysons ensemble l'évolution du nombre de personnes infectées par le SIDA à travers le monde.
