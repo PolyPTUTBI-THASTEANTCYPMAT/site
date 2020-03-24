@@ -23,11 +23,6 @@ summaryLength = 30
     url = "/analyses/"
     weight = 2
 
-[[menu.main]]
-    name = "Rapport"
-    url = "/rapport/"
-    weight = 3
-
 [params]
     google_analytics_id=""
     homepage_button_link = '/analyses'
